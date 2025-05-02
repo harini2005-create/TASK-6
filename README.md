@@ -38,3 +38,25 @@ This project implements the **K-Nearest Neighbors (KNN)** algorithm for classifi
 3. Install required Python libraries:
    ```bash
    pip install pandas numpy scikit-learn matplotlib
+
+##📈 Output
+Accuracy for K = 1 to 10
+
+Confusion matrix for the best K value
+
+Visual plot of decision boundaries using the first two features
+
+
+## 📚 What You'll Learn
+Basics of Instance-based learning
+
+Importance of feature scaling in KNN
+
+How to choose the right value of K
+
+Role of Euclidean distance in classification
+
+Visual understanding of decision boundaries
+   
+
+   
